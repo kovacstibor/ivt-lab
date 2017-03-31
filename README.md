@@ -7,6 +7,7 @@ This is a sample application for the [Integration and Verification Techniques](h
 - The project is implemented in Java 8.
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](http://junit.org/junit4/) is used for tests, and [Mockito](http://site.mockito.org/) for isolating dependencies.
+- The project is using Travis as Continuous Intergration
 
 Clone the repository and execute Maven to build the application:
 
